@@ -1,0 +1,13 @@
+<category name="rfid" colour="120">
+    <block type="import"></block>
+    <block type="init_DB"></block>
+    <block type="defineMenuFunction"></block>
+    <block type="drawMenu"></block>
+    <block type="print_RFID_Data"></block>
+    <block type="save_RFID_Data"></block>
+    <block type="write_RFID_Data"></block>
+    <block type="else"></block>
+    <block type="exit"></block>
+    <block type="scanAndSave"></block>
+    <block type="appendToList"></block>
+</category>

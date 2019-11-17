@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "flash": "cd edublocks-micropython && yarn run build && cd .. && cd esp32-micropython && cd panel && yarn run build && cd .. && yarn run mount-sys-linux && yarn run bundle && yarn run umount-sys-linux && sudo yarn run flash-micropython && sudo yarn run flash-sys" 
+  }
+}
