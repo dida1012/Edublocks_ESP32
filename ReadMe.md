@@ -9,7 +9,7 @@ ausführen
 
 Mit 'npm run flash' werden beide Projekte gebaut und auf den ESP32 geflasht
 
---> Nachdem der Wlan restartet ist aufs WLAN Netz des ESP32 verbinden und 192.168.4.1 aufrufen
+--> Nachdem der ESP32 restartet ist, aufs WLAN Netz des ESP32 verbinden und 192.168.4.1 aufrufen
 
 ## How to Factory Reset the ESP32?
 
